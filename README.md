@@ -7,6 +7,6 @@ Your mission, if you choose to accept it is to provide key statistics derived fr
 
 Set-up
 ===============
-Fork
-Clone
-Implement Specs and Code
+ * Fork
+ * Clone
+ * Implement Specs and Code
