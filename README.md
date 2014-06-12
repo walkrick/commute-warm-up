@@ -10,7 +10,7 @@ The first entry of the hash should be:
 
 ```
 {
-    "Elsa": [
+    "Elsa" => [
         {
             week: 1,
             day: "Monday",
