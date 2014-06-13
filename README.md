@@ -1,12 +1,12 @@
 commute-warm-up
 ===============
 
-Half of the Boulder gSchool class commutes to school each day from Denver. The City Council from The People's Republic of Boulder is currently updating it's Transportation Master Plan and needs stats. These stats will be derived from both the students from Denver and those that come from Boulder. Fortunately, you work for gSchool, Inc. and are involved in the Big Data space.
+Half of the Boulder gSchool class commutes to school each day from Denver. The City Council from The People's Republic of Boulder is currently updating it's Transportation Master Plan and needs stats. These stats will be derived from both the students from Denver and those from Boulder. Fortunately, you work for gSchool, Inc. and you like Big Data.
 
 Your mission, if you choose to accept it is to provide key statistics derived from data provided by gSchool students.
 
 The data is stored in a CSV file and needs to be converted to a hash so you can provide the back-up data to the city in a format they require.
-The first entry of the hash should be:
+The first entry of the hash should be in the following format:
 
 ```
 {
@@ -31,9 +31,11 @@ The first entry of the hash should be:
 }
 ```
 
-The following questions are what the transportation depart would like to know:
+The following questions are what the transportation department would like have answers for:
 * For Week 4 on Wednesday, what was Nate's inbound commute time?
 * For all 5 weeks, what was the group average commute time?
+
+Extra Credit
 * Who walked the fastest to gSchool during the 5 weeks? What was their average speed?
 
 Set-up
