@@ -35,7 +35,7 @@ The following questions are what the transportation department would like have a
 * For Week 4 on Wednesday, what was Nate's inbound commute time?
 * For all 5 weeks, what was the group average commute time?
 
-Extra Credit
+**Extra Credit**
 * Who walked the fastest to gSchool during the 5 weeks? What was their average speed?
 
 Set-up
