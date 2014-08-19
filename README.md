@@ -9,11 +9,10 @@ Fortunately, you work for gSchool, Inc. and you like Big Data.
 Your mission, if you choose to accept it is to provide key statistics derived from data provided 
 by gSchool students.
 
-The data is stored in a CSV file with some random order and needs to be converted to a hash
-so you can provide the back-up data to the city in a format they require. Within the array for 
-each person, the data is ordered by week number first and then ordered by day of the week 
+The data is stored in a CSV file with some random order and needs to be converted to a hash where the key is the name of the person and the value is a hash of their commute data. 
+Within the array for each person, the data is ordered by week number first and then ordered by day of the week 
 in the traditional day of week order.
-The first entry of the hash should be in the following format:
+For example, the first entry of the hash should be in the following format:
 
 ```
 {
